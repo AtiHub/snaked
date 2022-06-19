@@ -6,10 +6,16 @@ CLI snake game written in Ruby.
 
 Type `ruby app/run.rb` to your terminal and run.
 
-### Ruby version
+### Controls
+
+Snake: W, A, S, D
+Restart: R
+Quit: Ctrl-C
+
+## Ruby version
 
 2.7.4
 
-### Author
+## Author
 
 [Atakan Acar](https://github.com/AtiHub)
